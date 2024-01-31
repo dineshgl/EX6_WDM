@@ -15,7 +15,9 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 5. Execute a sample query and display the search results along with similarity scores.
 
 ### Program:
-
+```PYTHON
+/*WRITE YOUR CODE HERE
+```
 ### Output:
 
 ### Result:
